@@ -2,6 +2,8 @@
 layout: page
 ---
 
+![](images/cover.jpg)
+
 ### Call for Abstracts
 
 In den letzten Jahren ist der digitale Bestand massiv angewachsen, Objekte von Bibliotheken, Staatsarchiven und Museen wurden und werden zunehmend digitalisiert. Das daraus resultierende digitale Archiv ist in sich plural: jede digitalisierende Institution eröffnet gewissermaßen ein eigenes digitales Archiv für den jeweiligen Bestand und sorgt für dessen Auffindbarkeit. Nicht nur die historisch arbeitenden Wissenschaften profitieren gerade im Augenblick vom digitalen Fundus, wo Bibliotheken beschränkt zugänglich sind und mancher physische Bestand aufgrund von Hygiene- und Reisebestimmungen unerreichbar ist.
