@@ -31,8 +31,8 @@ Universitätsallee 1<br/>
 Anbieter:<br/>
 Dr. Mark Hall <br/>
 
-Kontakt: 
-Telefon: 
-E-Mail: 
+Kontakt: <br/>
+Telefon: <br/>
+E-Mail: <br/>
 
 
