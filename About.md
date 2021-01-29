@@ -35,4 +35,10 @@ Kontakt: <br/>
 Telefon: <br/>
 E-Mail: <br/>
 
+Bei redaktionellen Inhalten:<br/><br/>
+
+Verantwortlich nach § 55 Abs.2 RStV<br/>
+Dr. Mark Hall<br/>
+
+
 
