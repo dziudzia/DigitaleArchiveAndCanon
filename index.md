@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-
-![](images/cover.jpg)
-
+ 
 <div class="language-container">
 <section lang="de" markdown="1">
 # Call for Abstracts
