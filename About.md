@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Impressum
 
-Anbieter:<br/>
+<!--Anbieter:<br/>
 Dr. Corinna Dziudzia <br/>
 Katholische Universität Eichstätt-Ingolstadt<br/>
 Universitätsallee 1<br/>
@@ -26,5 +26,13 @@ Verantwortlich nach § 55 Abs.2 RStV<br/>
 Dr. Corinna Dziudzia <br/>
 Katholische Universität Eichstätt-Ingolstadt<br/>
 Universitätsallee 1<br/>
-85072 Eichstätt<br/>
+85072 Eichstätt<br/> -->
+
+Anbieter:<br/>
+Dr. Mark Hall <br/>
+
+Kontakt: 
+Telefon: 
+E-Mail: 
+
 
