@@ -6,6 +6,8 @@ permalink: /agenda/
 
 ## Agenda
  
+![](images/cover.png)
+
 tba
 
 
