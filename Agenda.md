@@ -14,6 +14,8 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der Bickhoff-St
 
 <section lang="en" markdown="1">
 
+Soon, here you will find the program for the workshop "Digita Archive and Canon".
+The event is being funded as the 2. Maximilian-Bickhoff-Kolloquium by the Bickhoff-Stiftung <a href="https://www.ku.de/die-ku/stiftungen-und-foerderer/bickhoff-stiftung">https://www.ku.de/die-ku/stiftungen-und-foerderer/bickhoff-stiftung</a> 
 </section>
 </div>
 
