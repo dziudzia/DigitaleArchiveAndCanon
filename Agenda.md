@@ -8,7 +8,7 @@ permalink: /agenda/
 <section lang="de" markdown="1">
 
 In Kürze finden Sie hier das Programm zum Workshop "Digitales Archiv und Kanon". 
-Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der gefördert. 
+Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="http://www.ku.de/die-ku/stiftungen-und-foerderer/bickhoff-stiftung">Bickhoff-Stiftung</a> gefördert. 
 
 </section>
 
