@@ -4,9 +4,6 @@ title: Agenda
 permalink: /agenda/
 ---
  
-![](images/cover.png)
-
-
 <div class="language-container">
 <section lang="de" markdown="1">
 
@@ -19,6 +16,9 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der Bickhoff-St
 
 </section>
 </div>
+
+
+![](images/cover.png)
 
 
 
