@@ -24,7 +24,5 @@ The canon debate of the 1970s asked the fundamental question of which authors’
 On the 10.3.21 the 2nd Maximillian-Bickhoff-Kolloquium will take place regarding the topic "Digital Archive and Canon". The programme can be found here. 
 The virtual colloquium sees itself as a venue to promote the exchange of ideas and as an invitation to reflect on this question from a range of interdisciplinary standpoints. 
 
-The aim is to make the selection processes explicit and transparent, to consider how they are undertaken, which criteria are involved in the selection for digitisation and the presentation of digitalisation results, and what gaps this may produce. Potential topics to discuss include, but are not limited to:
-
 </section>
 </div>
