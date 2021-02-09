@@ -67,7 +67,7 @@ Deutsche Version folgt.
 
 ### Digital history and the politics of digitization
 
-Much has been, and is, made of the transformative potential of digital resources and ‘data’ for humanities’ and historical research. Historians are flooded with digital and digitized materials and tend to take them for granted, grateful for the opportunities they afford. As the late Roy Rosenzweig observed in 2003, historians “may be facing a fundamental paradigm shift from a culture of scarcity to a culture of abundance”(Rosenzweig, 2003: 739). Yet, if we accept that we do indeed live in a culture of abundance, that abundance is still rarely questioned and qualified, let alone contextualized in time and space. To put itsimply: the question of why, where and how we can access whatwecan access is rarely posed.
+Much has been, and is, made of the transformative potential of digital resources and ‘data’ for humanities’ and historical research. Historians are flooded with digital and digitized materials and tend to take them for granted, grateful for the opportunities they afford. As the late Roy Rosenzweig observed in 2003, historians “may be facing a fundamental paradigm shift from a culture of scarcity to a culture of abundance”(Rosenzweig, 2003: 739). Yet, if we accept that we do indeed live in a culture of abundance, that abundance is still rarely questioned and qualified, let alone contextualized in time and space. To put it simply: the question of why, where and how we can access what we can access is rarely posed.
 
 [Full abstract](Zaagsma.pdf)
 
