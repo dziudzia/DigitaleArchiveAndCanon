@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
@@ -11,8 +11,8 @@ description: "Workshop zum digitalen Archiv und Kanon, 10. März 2021."
 github_username: dziudzia
 
 # Email and twitter are optional:
-email:  
-twitter_username:  
+email:
+twitter_username:
 
 # OPTIONAL: override baseurl and url if using a custom domain
 url: "http://www.digitales-archiv-und-kanon.de" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,17 +22,18 @@ url: "http://www.digitales-archiv-und-kanon.de" # the base hostname & protocol f
 #github_repo: ""
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# If you want to link only specific pages in your header, uncomment 
-# this and add the path to the pages in order as they should show up 
-header_pages: 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
  - Home
+ - Programme.md
+ - AcceptedAbstracts.md
  - Call.md
- - Agenda.md 
  - About.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
