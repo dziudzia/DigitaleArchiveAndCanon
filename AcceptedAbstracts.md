@@ -11,6 +11,7 @@ permalink: /abstracts/
 
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
+* Weitere Beiträge demnächst
 
 </section>
 <section lang="en" markdown="1">
@@ -19,6 +20,7 @@ permalink: /abstracts/
 
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
+* More to come soon
 
 </section>
 </div>
