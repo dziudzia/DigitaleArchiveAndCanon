@@ -44,7 +44,7 @@ Deutsche Version folgt.
 
 ### Investigations into a Global Digitisation Dataset
 
-During 2019 a network of libraries from the UK and US were funded by the UK’s Arts and Humanities Research Council under their Collaborations in Digital Scholarship programme to investigate the creation of a global dataset of all digitised texts1 via prototyping and community engagement. This work was led by the University of Glasgow, with HathiTrust, the National Library of Scotland, the National Library of Wales, the British Library, and Research Libraries UK.
+During 2019 a network of libraries from the UK and US were funded by the UK’s Arts and Humanities Research Council under their Collaborations in Digital Scholarship programme to investigate the creation of a global dataset of all digitised texts<sup>1</sup> via prototyping and community engagement. This work was led by the University of Glasgow, with HathiTrust, the National Library of Scotland, the National Library of Wales, the British Library, and Research Libraries UK.
 
 [Full abstract](LewisGoodingFurlough.pdf)
 
