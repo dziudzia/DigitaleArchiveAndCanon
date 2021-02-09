@@ -1,10 +1,10 @@
 <header class="site-header">
 
-   
+
   <div class="wrapper">
-    <div class="footer-col-wrapper" align="center"><img src="{{ "/" | relative_url }}images/HeaderImage.png"></div> 
+    <div class="footer-col-wrapper"><img src="{{ "/" | relative_url }}images/HeaderImage.png" alt="Digitales Archiv und Kanon | Digital Archive and Canon"></div>
   </div>
-  
+
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -34,5 +34,5 @@
       </nav>
     {%- endif -%}
   </div>
- 
+
 </header>
