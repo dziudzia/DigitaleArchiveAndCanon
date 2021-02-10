@@ -39,8 +39,11 @@ The canon debate of the 1970s asked the fundamental question of which authors’
 The virtual colloquium sees itself as a venue to promote the exchange of ideas and as an invitation to reflect on this question from a range of interdisciplinary standpoints. The aim is to make the selection processes explicit and transparent, to consider how they are undertaken, which criteria are involved in the selection for digitisation and the presentation of digitalisation results, and what gaps this may produce. Potential topics to discuss include, but are not limited to:
 
 * What is digitised and where is there a digital gap, that may remain for some time? How is the process structured, prioritised, and how are decisions made? Which criteria are applied when making decisions?
+
 * What effect does the (missing) digitisation have on the works of already forgotten, marginalised, or otherwise non-canonised authors, artists, time-periods, genres, or objects in general? Is the digitisation process improving knowledge of and about these or are they being forgotten and marginalised even more, as they are not digitised? What is the effect of research funding on this process?
+
 * Which digitised objects are easily findable and visible? Under what license and for whom are they freely accessible? Are digital barriers being added to replace the physical barriers that have been removed?
+
 * What consequences does the digitisation process have for the “traditional canon”? What is the relationship between this canon and the digital archive? Is the digitalisation consolidating or critically engaging with the canon?
 
 For the event, which takes places virtually on the 10.03.2021, we invite interdisciplinary contributions that stimulate discussion, with a length of up to 20 minutes. 250 word abstracts, including a title for the programme, must be submitted in either English or German to [corinna.dziudzia@ku.de](mailto:corinna.dziudzia@ku.de) or [mark.hall@open.ac.uk](mailto:mark.hall@open.ac.uk) by the 20.01.2021. Notification of acceptance will be provided by the 03.02.2021.
