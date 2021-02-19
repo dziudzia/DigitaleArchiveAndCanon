@@ -12,23 +12,23 @@ permalink: /programme/
 In Kürze finden Sie hier das vollständige Programm zum Workshop "Digitales Archiv und Kanon".
 Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="http://www.ku.de/die-ku/stiftungen-und-foerderer/bickhoff-stiftung">Bickhoff-Stiftung</a> gefördert.
 
-9.00 Begrüßung & Einführung 
+9.00 (MEZ) Begrüßung & Einführung
 
-9.30 Erste Session 
+9.30 (MEZ) Erste Session
 
-11.00 Pause 
+11.00 (MEZ) Pause
 
-11.30 Zweite Session 
+11.30 (MEZ) Zweite Session
 
-13.00 Pause 
+13.00 (MEZ) Pause
 
-14.00 Dritte Session  
+14.00 (MEZ) Dritte Session
 
-15.30 Pause 
+15.30 (MEZ) Pause
 
-16.00 Abschlussdiskussion 
+16.00 (MEZ) Abschlussdiskussion
 
-17.00 Miteinander mit Musik: Das Kupferquartett Leipzig spielt Fanny Mendelssohn-Hensels Streichquartett Es-Dur (1834) und zum Abschied, George Gershwins Lullaby.
+17.00 (MEZ) Miteinander mit Musik: Das Kupferquartett Leipzig spielt Fanny Mendelssohn-Hensels Streichquartett Es-Dur (1834) und zum Abschied, George Gershwins Lullaby.
 
 
 </section>
@@ -40,23 +40,23 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="h
 Soon, here you will find the programme for the workshop "Digital Archive and Canon".
 The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="http://www.ku.de/die-ku/stiftungen-und-foerderer/bickhoff-stiftung">Bickhoff-Stiftung</a>.
 
-9.00 Welcome & Introduction 
+8.00 (GMT) Welcome & Introduction
 
-9.30 First Session  
+8.30 (GMT) First Session
 
-11.00 Break
+10.00 (GMT) Break
 
-11.30 Second Session  
+10.30 (GMT) Second Session
 
-13.00 Break 
+12.00 (GMT) Break
 
-14.00 Third Session 
+13.00 (GMT) Third Session
 
-15.30 Break
+14.30 (GMT) Break
 
-16.00 Final Discussion
+15.00 (GMT) Final Discussion
 
-17.00 Social Event with Music: The Kupferquartett Leipzig plays Fanny Mendelssohn-Hensels String quartet E flat major (1834) and for farewell, George Gershwins Lullaby.
+16.00 (GMT) Social Event with Music: The Kupferquartett Leipzig plays Fanny Mendelssohn-Hensels String quartet E flat major (1834) and for farewell, George Gershwins Lullaby.
 
 
 </section>
