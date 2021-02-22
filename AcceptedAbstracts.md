@@ -13,7 +13,7 @@ permalink: /abstracts/
 * [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
 * [Digitale Kanon-Bildung im Spannungsfeld zwischen Bibliothek, Forschung und Öffentlichkeit](#anke-hertling)
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
-* [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
+* [Investigations into a Globales Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
 * Weitere Beiträge demnächst
 
@@ -23,8 +23,8 @@ permalink: /abstracts/
 # Accepted Abstracts
 
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
-* [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
-* [Digital Canon Creation in the interest of Libraries, Research and the Public ](#anke-hertling)
+* [The Webarchive in the Age of Abundance? A source critique](#simon-donig-markus-eckl-malte-rehbein)
+* [Digital Canon Creation in the interest of Libraries, Research and the Public](#anke-hertling)
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
