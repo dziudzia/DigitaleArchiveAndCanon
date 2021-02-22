@@ -9,7 +9,7 @@ permalink: /registration/
 
 # Anmeldung
 
-Die Teilnahme am Workshop ist gratis. Um sich für den Workshop zu registrieren, nutzen Sie bitte [Eventbrite Seite](https://www.eventbrite.co.uk/e/digital-archive-and-canon-tickets-142481763791).
+Die Teilnahme am Workshop ist gratis. Um sich für den Workshop zu registrieren, nutzen Sie bitte die [Eventbrite Seite](https://www.eventbrite.co.uk/e/digital-archive-and-canon-tickets-142481763791).
 
 Ein paar Tage vor dem Workshop wird Ihnen dann ein Link mit den Zugangsdaten zum Online-Workshop zugeschickt. Falls Sie keinen Link erhalten, kontaktieren Sie bitte [Mark Hall](mailto://mark.hall@open.ac.uk) oder [Corinna Dziudzia](mailto://corinna.dziudzia@ku.de).
 
