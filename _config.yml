@@ -31,6 +31,7 @@ google_analytics:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - Home
+ - Registration.md
  - Programme.md
  - AcceptedAbstracts.md
  - Social.md
