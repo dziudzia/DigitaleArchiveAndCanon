@@ -10,7 +10,9 @@ permalink: /abstracts/
 # Angenommene Beiträge
 
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
+* [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
 * [Digitale Kanon-Bildung im Spannungsfeld zwischen Bibliothek, Forschung und Öffentlichkeit](#anke-hertling)
+* [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
 * Weitere Beiträge demnächst
@@ -21,7 +23,9 @@ permalink: /abstracts/
 # Accepted Abstracts
 
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
+* [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
 * [Digital Canon Creation in the interest of Libraries, Research and the Public ](#anke-hertling)
+* [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
 * More to come soon
@@ -55,6 +59,33 @@ This presentation will discuss the process of curating digital sample packs for 
 </section>
 </div>
 
+## Simon Donig, Markus Eckl, Malte Rehbein
+
+Simon Donig, [Universität Passau, Lehrstuhl für Digital Humanities](https://www.phil.uni-passau.de/dh/)
+Markus Eckl, [Universität Passau, Lehrstuhl für Digital Humanities](https://www.phil.uni-passau.de/dh/)
+Malte Rehbein, [Universität Passau, Lehrstuhl für Digital Humanities](https://www.phil.uni-passau.de/dh/)
+
+<div class="language-container">
+<section lang="de" markdown="1">
+
+### Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik
+
+Parallel zur fortschreitenden Digitalisierung bestehender archivalischer Überlieferung sind Geschichtswissenschaft und archivarische Praxis zunehmend mit digitalen Quellen konfrontiert, zu deren sicher markantesten Erscheinungsformen multimodale Verbünde und Hypertext im World Wide Web gehören (Brügger 2018). Die damit verbundene plötzliche Ubiquität von Quellen zu den unterschiedlichsten Fragestellungen, aber auch die hohe Alltagsrelevanz digitaler Kommunikationsformen haben einige Forschende bereits von einem heraufdämmernden „Age of Abundance“ der Digitalen Geschichtsforschung träumen lassen (Milligan 2019). Solcher Optimismus ging einher mit dem Versprechen neuer Technologien wie der Anlage nutzergenerierter, standardisierter Webarchive, auch den Prozess der Archivierung selbst zu demokratisieren.
+
+[Vollständiger Abstract](DonigEcklRehbein_de.pdf)
+
+</section>
+<section lang="en" markdown="1">
+
+### The Webarchive in the Age of Abundance? A source critique
+
+In parallel to the ongoing digitization of existing archival records, historical scholarship and archival practice are increasingly confronted with digital-born sources, among whose certainly most striking manifestations are multimodal compounds and hypertext on the World Wide Web (Brügger 2018). The resultant sudden ubiquity of sources for a wide variety of research questions as well as the high everyday relevance of digital forms of communication, have already led some researchers to coining the notion of a dawning "Age of Abundance" for digital history research (Milligan 2019). Such optimism was accompanied by the promise of new technologies, such as the creation of user-generated, standardized web archives, to democratize the process of archiving itself. In our paper, we ask how web archiving can be a possible solution to the overabundance of digitally born sources in an "Age of Abundance" on the one hand, and critically question the epistemological and methodological challenges this approach poses to research on the other. We argue that the archiving of digital mass sources must go hand in hand with the increased use of well-scaled digital methods such as distant or scalable reading, which themselves have to be critically assessed from a methodological point of view.
+
+[Full abstract](DonigEcklRehbein_en.pdf)
+
+</section>
+</div>
+
 ## Anke Hertling
 
 [Dr Anke Hertling](http://www.gei.de/en/mitarbeiter/anke-hertling.html), Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung
@@ -76,6 +107,26 @@ Auch aus Ermangelung einer nationalen Digitalisierungsstrategie haben Bibliothek
 German Libraries have developed individual concepts for gradually making their collections digitally accessible, in part due to the lack of a national digitisation strategy. There is a high degree of responsibility attached to selecting and prioritising which source material should be digitised, as libraries organise and preserve a cultural memory through such practices of canonisation. Although they do not digitise as an end in itself, libraries' digitisation strategies are little known outside their own professional community. The initial premise of this presentation is that the creation of a digital canon is shaped by the interests of a range of stakeholders, among which we can count libraries, researchers and a general public with an interest in cultural assets.
 
 [Full abstract](Hertling_en.pdf)
+
+</section>
+</div>
+
+## Isabelle Stauffer
+
+<div class="language-container">
+<section lang="de" markdown="1">
+
+### Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
+
+Details folgen
+
+</section>
+
+<section lang="en" markdown="1">
+
+### Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
+
+Details to follow
 
 </section>
 </div>
