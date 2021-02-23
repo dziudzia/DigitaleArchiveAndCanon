@@ -45,7 +45,7 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="h
 
 15.30 (MEZ) Abschlussdiskussion
 
-16.30 (MEZ) Miteinander mit Musik: Das Kupferquartett Leipzig spielt Fanny Mendelssohn-Hensels Streichquartett Es-Dur (1834) und zum Abschied, George Gershwins Lullaby.
+16.30 (MEZ) [Miteinander mit Musik: Das Kupferquartett Leipzig spielt Fanny Mendelssohn-Hensels Streichquartett Es-Dur (1834) und zum Abschied, George Gershwins Lullaby.](../social/)
 
 17.15 (MEZ) Verabschiedung
 
@@ -91,7 +91,7 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 
 14.30 (GMT) Final Discussion
 
-15.30 (GMT) Social Event with Music: The Kupferquartett Leipzig plays Fanny Mendelssohn-Hensels String quartet E flat major (1834) and for farewell, George Gershwins Lullaby.
+15.30 (GMT) [Social Event with Music: The Kupferquartett Leipzig plays Fanny Mendelssohn-Hensels String quartet E flat major (1834) and for farewell, George Gershwins Lullaby.](../social/)
 
 16.15 (GMT) Farewell
 
