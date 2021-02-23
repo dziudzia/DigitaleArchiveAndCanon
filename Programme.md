@@ -84,7 +84,7 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 
 13.15 (GMT) Fourth Session
 
-* [Öpening the Archive and Extending the Canon: Digitalisation as a boost for Galanterieforschung](../abstracts/#isabelle-stauffer)
+* [Opening the archive and changing the literary canon: Digitization as a booster for researching gallantry](../abstracts/#isabelle-stauffer)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](../abstracts/#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
 
 14.15 (GMT) Short Break
