@@ -9,26 +9,49 @@ permalink: /abstracts/
 
 # Angenommene Beiträge
 
+* [Digitising Canons – A Fugitive Decolonial Luddite Critique](#mustafa-ali)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
+* [Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschichte ](#beate-ceranski)
 * [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
 * [Digitale Kanon-Bildung im Spannungsfeld zwischen Bibliothek, Forschung und Öffentlichkeit](#anke-hertling)
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Globales Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
-* Weitere Beiträge demnächst
 
 </section>
 <section lang="en" markdown="1">
 
 # Accepted Abstracts
 
+* [Digitising Canons – A Fugitive Decolonial Luddite Critique](#mustafa-ali)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
+* [Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschichte ](#beate-ceranski)
 * [The Webarchive in the Age of Abundance? A source critique](#simon-donig-markus-eckl-malte-rehbein)
 * [Digital Canon Creation in the interest of Libraries, Research and the Public](#anke-hertling)
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
-* More to come soon
+
+</section>
+</div>
+
+## Mustafa Ali
+
+[Dr Mustafa Ali](http://www.open.ac.uk/people/sma78), The Open University<br/>
+
+<div class="language-container">
+<section lang="de" markdown="1">
+
+### Digitising Canons – A Fugitive Decolonial Luddite Critique
+
+Deutsche Version folgt.
+
+</section>
+<section lang="en" markdown="1">
+
+### Digitising Canons – A Fugitive Decolonial Luddite Critique
+
+English Version to follow.
 
 </section>
 </div>
@@ -55,6 +78,29 @@ Deutsche Version folgt.
 This presentation will discuss the process of curating digital sample packs for commercial distribution from the larger Instruments INDIA sound archive. The Instruments INDIA archive was established in 2013 and contains over 5 hours of sound recordings of Indian musical instruments stemming from a collaboration between the researcher and Milap (the UK’s leading Indian Arts Development Trust). This digital resource was created to support music education initiatives (in website and downloadable tablet form) and to enhance audience development for Indian classical music performances in the UK.
 
 [Full abstract](BlackburnNayakSuvisteBatchelor_en.pdf)
+
+</section>
+</div>
+
+## Beate Ceranski
+
+Dr Beate Ceranski, Universität Stuttgart
+
+<div class="language-container">
+<section lang="de" markdown="1">
+
+### Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschicht
+
+Türhüter – gatekeeper – sind wesentliche und funktionell unverzichtbare Instanzen des Wissenschaftsbetriebs. Als Herausgeber von Zeitschriften und Publikationsreihen, als Verleger, Gutachter und Übersetzer, als Archivare und Kuratoren (nicht ohne Absicht hier durchgängig in der männlichen Form benannt), in Jurys, Habilitationsausschüssen und Programmkomitees waren und sind sie mit der Etablierung und Aufrechterhaltung des arbeitsteiligen, disziplinär organisierten und professionalisierten Wissenschaftsbetriebs der Neuzeit untrennbar verbunden. Die großartigen und neuartigen Räume, die sie für die Gewinnung und Verbreitung von Wissen und Erkenntnis schufen, waren nur funktional, indem zugleich der Zutritt zu ihnen reglementiert und diszipliniert wurde
+
+[Vollständiger Abstract](Ceranski_de.pdf)
+
+</section>
+<section lang="en" markdown="1">
+
+### Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschicht
+
+Details to follow
 
 </section>
 </div>
