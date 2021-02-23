@@ -9,14 +9,14 @@ permalink: /abstracts/
 
 # Angenommene Beiträge
 
-* [Digitising Canons – A Fugitive Decolonial Luddite Critique](#mustafa-ali)
-* [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
-* [Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschichte ](#beate-ceranski)
+* [Digitalisierter Kanon - Eine flüchtlings, dekolonialisierte, und technikverweigernde Kritik](#mustafa-ali)
+* [Fragmentierung des Archivs für die Kreativität: Entwicklung digitaler Samplepacks mit Sounds indischer Musikinstrumente](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
+* [Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschichte](#beate-ceranski)
 * [Das Webarchiv im Zeitalter des Überflusses? Eine Quellenkritik](#simon-donig-markus-eckl-malte-rehbein)
 * [Digitale Kanon-Bildung im Spannungsfeld zwischen Bibliothek, Forschung und Öffentlichkeit](#anke-hertling)
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
-* [Investigations into a Globales Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
-* [Digital history and the politics of digitization](#gerben-zaagsma)
+* [Recherche zu einem globalen Digitalisierungsdatensatz](#stuart-lewis-paul-gooding-mike-furlough)
+* [Digitale Geschichte und die Politik der Digitalisierung](#gerben-zaagsma)
 
 </section>
 <section lang="en" markdown="1">
@@ -25,10 +25,10 @@ permalink: /abstracts/
 
 * [Digitising Canons – A Fugitive Decolonial Luddite Critique](#mustafa-ali)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](#manuella-blackburn-alok-nayak-hayley-suviste-and-jonny-batchelor)
-* [Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschichte ](#beate-ceranski)
+* [Digitisation as Gatekeeper. Reflecting on the history of Science and Technology](#beate-ceranski)
 * [The Webarchive in the Age of Abundance? A source critique](#simon-donig-markus-eckl-malte-rehbein)
 * [Digital Canon Creation in the interest of Libraries, Research and the Public](#anke-hertling)
-* [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](#isabelle-stauffer)
+* [Opening the Archive and Extending the Canon: Digitalisation as a boost for Galanterieforschung](#isabelle-stauffer)
 * [Investigations into a Global Digitisation Dataset](#stuart-lewis-paul-gooding-mike-furlough)
 * [Digital history and the politics of digitization](#gerben-zaagsma)
 
@@ -42,16 +42,16 @@ permalink: /abstracts/
 <div class="language-container">
 <section lang="de" markdown="1">
 
-### Digitising Canons – A Fugitive Decolonial Luddite Critique
+### Digitalisierter Kanon - Eine flüchtlings, dekolonialisierte, und technikverweigernde Kritik
 
-Deutsche Version folgt.
+Details folgen
 
 </section>
 <section lang="en" markdown="1">
 
 ### Digitising Canons – A Fugitive Decolonial Luddite Critique
 
-English Version to follow.
+Details to follow
 
 </section>
 </div>
@@ -66,9 +66,9 @@ English Version to follow.
 <div class="language-container">
 <section lang="de" markdown="1">
 
-### Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds
+### Fragmentierung des Archivs für die Kreativität: Entwicklung digitaler Samplepacks mit Sounds indischer Musikinstrumente
 
-Deutsche Version folgt.
+Details folgen
 
 </section>
 <section lang="en" markdown="1">
@@ -98,7 +98,7 @@ Türhüter – gatekeeper – sind wesentliche und funktionell unverzichtbare In
 </section>
 <section lang="en" markdown="1">
 
-### Digitalisierung als Gatekeeper. Reflexionen zur Wissenschafts- und Technikgeschicht
+### Digitisation as Gatekeeper. Reflecting on the history of Science and Technology
 
 Details to follow
 
@@ -170,7 +170,7 @@ Details folgen
 
 <section lang="en" markdown="1">
 
-### Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
+### Opening the Archive and Extending the Canon: Digitalisation as a boost for Galanterieforschung
 
 Details to follow
 
@@ -186,7 +186,7 @@ Mike Furlough, Executive Director, HathiTrust
 <div class="language-container">
 <section lang="de" markdown="1">
 
-### Investigations into a Global Digitisation Dataset
+### Recherche zu einem globalen Digitalisierungsdatensatz
 
 2019 untersuchten mehrere Bibliotheken aus Großbritannien und den USA unter der Förderung des Britischen Arts and Humanities Research Council im Rahmen dessen Programms Collaborations in Digital Scholarship Möglichkeiten zur Erstellung eines globalen Datensatzes aller weltweit digitalisierten Texte<sup>1</sup> anhand von Prototypen und unter Mithilfe von externen Fachkollegen. Diese Kollaboration stand unter der Leitung der University of Glasgow, in Zusammenarbeit mit dem HathiTrust (USA), der National Library of Scotland, der National Library of Wales, der British Library, und des Verbandes Research Libraries UK.
 
@@ -212,9 +212,9 @@ During 2019 a network of libraries from the UK and US were funded by the UK’s 
 <div class="language-container">
 <section lang="de" markdown="1">
 
-### Digital history and the politics of digitization
+### Digitale Geschichte und die Politik der Digitalisierung
 
-Deutsche Version folgt.
+Details folgen
 
 </section>
 <section lang="en" markdown="1">
