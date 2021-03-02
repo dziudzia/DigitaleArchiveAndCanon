@@ -6,7 +6,7 @@ permalink: /contributions/ceranski
 
 # Beate Ceranski
 
-Dr Beate Ceranski, Universität Stuttgart
+PD Dr Beate Ceranski, Universität Stuttgart
 
 <div class="language-container">
 <section lang="de" markdown="1">
