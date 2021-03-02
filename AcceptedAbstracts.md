@@ -159,7 +159,7 @@ German Libraries have developed individual concepts for gradually making their c
 
 ## Isabelle Stauffer
 
-[Prof. Dr. Isabelle Stauffer](https://www.ku.de/slf/germanistik/p-neuere-deutsche-literaturwissenschaft/prof-dr-isabelle-stauffer): KU Eichstätt-Ingolstadt
+[Prof. Dr. Isabelle Stauffer](https://www.ku.de/slf/germanistik/p-neuere-deutsche-literaturwissenschaft/prof-dr-isabelle-stauffer), KU Eichstätt-Ingolstadt
 <div class="language-container">
 <section lang="de" markdown="1">
 
