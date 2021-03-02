@@ -18,9 +18,9 @@ Türhüter – gatekeeper – sind wesentliche und funktionell unverzichtbare In
 </section>
 <section lang="en" markdown="1">
 
-## Digitisation as Gatekeeper. Reflecting on the history of Science and Technology
+## Digitization as Gatekeeper. Reflections on the History of Science and Technology
 
-To come.
+Ever since the early modern period gatekeepers have been essential players within the scientific enterprise. As series editors or journal board members as well as publishers, referees, and translators, and of course, as members of prize and program committees, they have been, and still are, inextricably related to science as a professional(ized) activity. Spaces and powerful opportunities for scholars‘ lives and work were co-created together with regulations and limits for accessing these spaces.
 
 </section>
 </div>
