@@ -16,7 +16,7 @@ permalink: /contributions/blackburn-nayak-suviste-batchelor
 
 ## Fragmentierung des Archivs für die Kreativität: Entwicklung digitaler Samplepacks mit Sounds indischer Musikinstrumente
 
-Kommt demnächst.
+Dieser Vortrag dreht sich um die Zusammenstellung digitaler Samplepacks aus dem Instruments INDIA Soundarchiv mit dem Ziel kommerzieler Nutzung. Das Instruments INDIA Archiv wurde 2013 eröffnet und enthält über 5 Stunden an Soundaufnahmen Indischer Musikinstrumente, welche aus einer Kollaboration zwischen den Forscher_innen und Milap (die führende Indischer Kulturentwicklungsorganisation im Vereinigten Königreich) entstanden sind. Diese digitale Resource wurde erstellt, um Musikbildungsinitiativen zu unterstützen (über die Webseite und als herunterladbare Tabletapp) und um die Bekanntheit klassischer, indischer Musikaufführungen im Vereinigten Königreich zu erweitern.
 
 [Vollständiger Abstrakt](BlackburnNayakSuvisteBatchelor_en.pdf)
 
