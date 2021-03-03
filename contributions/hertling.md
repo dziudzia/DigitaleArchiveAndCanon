@@ -34,14 +34,48 @@ German Libraries have developed individual concepts for gradually making their c
 
 ### Kernpunkte
 
-Kommt demnächst.
+Vielfalt der Akteure
+: Das Fehlen einer nationalen Digitalisierungsstrategie in Deutschland wird vielfach kritisch gesehen. Damit eröffnet sich aber auch die Möglichkeit, die Digitalisierung dezentral zu organisieren und somit einer Kanon-Hoheit entgegenzuwirken. Sowohl an der deutschen Förderpolitik als auch an den Digitalisierungsstrategien von Bibliotheken in Deutschland wird deutlich, dass viele Akteure bei der Entscheidung, welche Objekte, wann und in welcher Weise digitalisiert werden, mitwirken können. Neben Bibliotheken / Archiven / Museen stehen auch die Interessen der Forschung und der interessierten Öffentlichkeit im Fokus bei der Digitalisierung des Kulturguts.
+
+Vielfalt der Interessen / Prioritäten
+: *Bibliotheken / Archive / Museen*: Digitalisierung als konservatorische Maßnahme; möglichst vollständige Sammlungen; Massendigitalisierung resp. Quantität; offener Zugang; offene Nachnutzung; standardisierte Daten …
+:
+: *Forschung*: Digitalisierung gemäß Forschungsfrage(n); vollständige Korpora evtl. sammlungsübergreifende Digitalisierung; Volltexte (Qualität); offene Nachnutzung …
+:
+: *interessierte Öffentlichkeit*: einzigartige „Schätze“ / Unikalität; offener Zugang; offene Nachnutzung …
+
+Vielfalt der Herausforderungen
+: Aus den oben genannten Akteuren und Interessen ergeben sich unterschiedliche Nutzer- und Zielgruppen für die Digitalisierung. Die Nutzer- und Zielgruppen beeinflussen dabei die Auswahl des Materials, die Qualität der Daten, die Lizenzen und Infrastrukturvoraussetzungen. Wenn Bibliotheken alle drei Akteure als Nutzer- und Zielgruppen in ihrer Digitalisierungsstrategie berücksichtigen wollen, müssen sie unterschiedliche Workflows und technische Voraussetzungen entwickeln, um den jeweiligen Bedarfen zu entsprechen.
+
+Digitale Kanon-Bildung als sozialer Prozess
+: Neben den technischen und organisatorischen Herausforderungen, die Bibliotheken bei einer Nutzer- und Zielgruppen orientierten Digitalisierung zu bewältigen haben, sollte eine Entscheidungsfindung, was wann und wie digitalisiert wird, und damit zur digitalen Kanon-Bildung beiträgt, als gemeinsamer Aushandlungsprozess verstanden werden. Bibliotheken müssen dafür ihre Digitalisierungsstrategien und -interessen transparent machen und in Dialog mit der Forschung und Öffentlichkeit treten. Die Einbeziehung der Forschung und Öffentlichkeit in die digitale Kanon-Bildung kann z.B. durch Nutzerbefragungen, Auswertung von Nutzungsstatistiken oder, wie es z.B. die Deutsche Nationalbibliothek macht, durch öffentlichkeitswirksame Calls im Sinne einer Digitalisierung on Demand sowie in Form gemeinsamer Projekte erfolgen.
+
+Digitale Kanon-Bildung als dynamischer Prozess
+: Die „Kanonfrage 2.0“ verstehe ich auch im Gegensatz zur traditionellen Kanon-Bildung als permanenten Verständigungs- und Aushandlungsprozess zwischen verschiedenen Akteuren. Die digitale Kanon-Bildung kann dabei mehrfach dynamisch gesehen werden: Neue thematische (Forschungs-)Trends beeinflussen die Digitalisierungsstrategien ebenso wie neue technische Möglichkeiten und rechtliche Rahmenbedingungen für die Digitalisierung. Ein- und Ausschlüsse bzw. Leerstellen kennzeichnen schon immer die Kanon-Bildung. Im skizzierten Kontext sollten sie jeweils Ausgangspunkt und Gegenstand der Verständigung sein, um daraus mögliche Auswirkungen z.B. für die Forschung zu identifizieren und langfristige Strategien für Bibliotheken zu entwickeln
 
 </section>
 <section lang="en" markdown="1">
 
 ### Key points
 
-To come.
+Variety of stakeholders
+: The lack of a national digitisation strategy in Germany is often viewed critically. However, this also creates the opportunity of organising digitisation in a decentralised manner and counteracting canon privilege. It is clear from both the German funding policy and the digitisation strategies of libraries in Germany that many stakeholders can take part in selecting and prioritising which resources should be digitised. In addition to libraries / archives / museums, the interests of research and public are also taken into account in the digitisation of cultural heritage.
+
+Variety of interests / priorities
+: *libraries / archives / museums*: digitisation as conservation; collections as complete as possible; mass digitisation; open access; data sharing; standardised data …
+:
+: *research*: digitisation according to research queries; complete corpora, also in the sense of across collections; full texts; re-usable data; data sharing …
+:
+: *public*: unique "treasures"; open access; re-usable data; data sharing …
+
+Variety of challenges
+: The aforementioned stakeholders and interests result in different user and target groups for digitisation. They influence the selection of material, the quality of data, licenses, and infrastructure requirements. If libraries want to consider all stakeholders as users and target groups in their digitisation strategy, they must develop different workflows and technical requirements to meet their different needs.
+
+Digital Canon Creation as a social process
+: User- and target group-oriented digitisation is to be understood as a joint negotiation process for digital canon creation, in which joint decisions are to be made about what, when, and how to digitise. To this end, libraries should make their digitisation strategies and interests transparent, and enter into dialogue with the research community and the public. The involvement of research and the public in the creation of a digital canon can take place, for example, by user surveys and statistics, or, as the German National Library does, by digitisation on demand and in the form of collaborative projects.
+
+Digital Canon Creation as a dynamic process
+: Referring to traditional canon creation, I understand the "canon 2.0" as a permanent process of communication and negotiation between different stakeholders. The "canon 2.0" is thus a dynamic process in several respects: new thematic (research) trends influence digitisation strategies, as do new technical possibilities and legal conditions. Inclusions and exclusions have always characterised canon creation. In the permanent process of negotiation, they should be the starting point and subject of understanding in order to identify research effects, and to develop long-term strategies for libraries.
 
 </section>
 </div>
