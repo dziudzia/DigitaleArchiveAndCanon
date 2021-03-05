@@ -24,7 +24,7 @@ Türhüter – gatekeeper – sind wesentliche und funktionell unverzichtbare In
 
 Ever since the early modern period gatekeepers have been essential players within the scientific enterprise. As series editors or journal board members as well as publishers, referees, and translators, and of course, as members of prize and program committees, they have been, and still are, inextricably related to science as a professional(ized) activity. Spaces and powerful opportunities for scholars‘ lives and work were co-created together with regulations and limits for accessing these spaces.
 
-[Full Abstract](Ceranski_en.pdf)
+[Full Abstract](ceranski_en.pdf)
 
 </section>
 </div>
