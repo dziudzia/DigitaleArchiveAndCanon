@@ -18,7 +18,7 @@ Kommt demnächst.
 </section>
 <section lang="en" markdown="1">
 
-## Digital history and the politics of digitization
+## Digitising Canons – A Fugitive Decolonial Luddite Critique
 
 To come.
 
