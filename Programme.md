@@ -33,8 +33,6 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="h
 
 * [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](../abstracts/#isabelle-stauffer)
 * [Fragmentierung des Archivs für die Kreativität: Entwicklung digitaler Samplepacks mit Sounds indischer Musikinstrumente](../contributions/blackburn-nayak-suviste-batchelor)
-
-13.15 (MEZ) Mittagspause
 </section>
 
 <section lang="en" markdown="1">
@@ -65,12 +63,13 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 * [Opening the archive and changing the literary canon: Digitization as a booster for researching gallantry](../abstracts/#isabelle-stauffer)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](../contributions/blackburn-nayak-suviste-batchelor)
 
-12.15 (GMT) Lunch Break
 </section> 
 </div>
 
 <div class="language-container">
 <section lang="de" markdown="1">
+13.15 (MEZ) Mittagspause
+
 14.15 (MEZ) Vierte Session
 
 * [Digitale Kanon-Bildung im Spannungsfeld zwischen Bibliothek, Forschung und Öffentlichkeit](../contributions/hertling)
@@ -86,7 +85,9 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 </section>
 
 <section lang="en" markdown="1">
-13.15 (GMT) Fourth Session
+12.15 (GMT) Lunch Break
+
+14.15 (GMT) Fourth Session
 
 * [Digital Canon Creation in the interest of Libraries, Research and the Public](../contributions/hertling)
 * [Investigations into a Global Digitisation Dataset](../contributions/lewis-gooding-furlough)
