@@ -32,14 +32,22 @@ For most of German literary history, gallant literature did not belong to the Ge
 
 ### Kernpunkte
 
-Kommt demnächst.
+* Viele deutsche galante Texte um 1700 gehören weiterhin zu „dem großen Ungelesenen“ (Moretti 2000, 55)
+* Die Digitalisierung galanter Texte, der Aufbau von Datenbanken und Tools für distant reading kann die Galanterieforschung massiv befördern (Booster)
+* Die digitale Verfügbarkeit galanter Texte kann zu ihrer Kanonisierung beitragen
+* Versteht man Galanterie nicht als Epoche oder Epochenschwelle, sondern als Diskurs (Borgstedt/Solbach 2001, 7), können Tools für distant reading für eine Diskursanalyse hilfreich sein
+* Distant reading könnte dazu beitragen, den literarischen Kanon in den galanten Texten sichtbar zu machen
 
 </section>
 <section lang="en" markdown="1">
 
 ### Key points
 
-To come.
+* Many German gallant texts around 1700 are still part of “the great unread” (Moretti 2000, 55)
+* The digitization of gallant texts, the setting up of databases and tools for distant reading could function as a booster for researching gallantry
+* The digital availability of gallant texts can contribute to their canonization
+* If one defines gallantry as a discourse like Thomas Borgstedt and Andreas Solbach (Borgstedt/Solbach 2001, 9) discourse analysis is much more feasible with distant reading tools
+* Distant reading could help to identify the literary canon in the gallant texts
 
 </section>
 </div>
