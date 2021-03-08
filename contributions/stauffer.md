@@ -13,7 +13,9 @@ permalink: /contributions/stauffer
 
 ## Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
 
-Kommt demnächst.
+Für die deutsche Literaturgeschichtsschreibung gehörte die galante Literatur lange Zeit nicht zum Kanon. Als Herbert Singer in den 1960er Jahren seine grundlegenden Arbeiten zum galanten Roman veröffentlichte, beschrieb er sein Unternehmen als „Forschungsreise in eine terra incognita“. Er erforsche einen „weißen Fleck[...] auf der Landkarte der deutschen Literaturgeschichte“. Dieser weiße Fleck war eine „klaffende Lücke“ von siebeneinhalb Jahrzehnten. Die Romane, die er untersuchen wollte, galten zwei Jahrhunderte lang als verschollen. Er hoffe „ein unbekanntes Meisterwerk“ zu finden oder – wie Richard Alewyn vor ihm – „einen verschollenen Dichter von Rang“. Er verbarg seine Enttäuschung nicht, als er erklärte, dass „die Romane der Zeit historisch folgenlos und ästhetisch belanglos“ seien. Glücklicherweise ist in der Galanterieforschung seit Singer viel geschehen und viele seiner Vorurteile sind inzwischen revidiert. Dennoch gehören viele galante Texte weiterhin – wie es Franco Moretti bezeichnet hat – zu dem großen Ungelesenen.
+
+[Vollständiger Abstract](Stauffer_de.pdf)
 
 </section>
 <section lang="en" markdown="1">
