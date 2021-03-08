@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mustafa Ali
+title: Isabelle Stauffer
 permalink: /contributions/stauffer
 ---
 
