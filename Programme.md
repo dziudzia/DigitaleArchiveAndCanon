@@ -31,7 +31,7 @@ Die Veranstaltung wird als 2. Maximilian-Bickhoff-Kolloquium von der  <a href="h
 
 12.15 (MEZ) Dritte Session
 
-* [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](../abstracts/#isabelle-stauffer)
+* [Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung](../contributions/stauffer)
 * [Fragmentierung des Archivs für die Kreativität: Entwicklung digitaler Samplepacks mit Sounds indischer Musikinstrumente](../contributions/blackburn-nayak-suviste-batchelor)
 </section>
 
@@ -60,7 +60,7 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 
 11.15 (GMT) Third Session
 
-* [Opening the archive and changing the literary canon: Digitization as a booster for researching gallantry](../abstracts/#isabelle-stauffer)
+* [Opening the archive and changing the literary canon: Digitization as a booster for researching gallantry](../contributions/stauffer)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](../contributions/blackburn-nayak-suviste-batchelor)
 
 </section> 
