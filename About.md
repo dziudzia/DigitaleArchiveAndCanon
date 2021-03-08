@@ -35,10 +35,12 @@ Walton Hall<br />
 Milton Keynes, MK7 6AA
 
 Kontakt: mark.hall@open.ac.uk<br/>
-Telefon: <br/>
-E-Mail: <br/>
+<!--Telefon: <br/>
+E-Mail: <br/>-->
 
-Bei redaktionellen Inhalten:<br/><br/>
+<!--
+Bei redaktionellen Inhalten: <br/><br/>
+-->
 
 Verantwortlich nach § 55 Abs.2 RStV<br/>
 Dr. Mark Hall<br/>
