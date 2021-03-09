@@ -82,5 +82,7 @@ The content of the digital archive reflects the richness of the online web, but 
 
 Digital archives are similar to the institutionalized archives of the offline world in that they can be understood as constrictions of cultural memory (Aleida Assmann) that are shaped by processes of canonization and can themselves serve as reservoirs of cultural knowledge for the renewal of the canon. In particular, the mediality of the online web, conscious selection processes in the course of archiving, technical factors, and "blind spots" in the course of the archiving process shape the character of the archived web.
 
+x
+
 </section>
 </div>
