@@ -34,30 +34,28 @@ In parallel to the ongoing digitization of existing archival records, historical
 <div class="language-container">
 <section lang="de" markdown="1">
 
-
-
 ### Kernpunkte
 
 1. Zwei Fragen:
 
-- Historische Forschung und archivarische bzw. bibliothekarische Praxis werden in wachsendem Maße mit digital geborenen Quellen konfrontiert. Inwiefern kann uns     Webarchivierung als Instrument dabei helfen mit den Herausforderungen der Digitalen Transformation zurecht zu kommen?
+- Historische Forschung und archivarische bzw. bibliothekarische Praxis werden in wachsendem Maße mit digital geborenen Quellen konfrontiert. Inwiefern kann uns Webarchivierung als Instrument dabei helfen mit den Herausforderungen der Digitalen Transformation zurecht zu kommen?
 - Bei Webarchiven handelt es sich um eine recht junge Gattung von Archiven. Vor welche epistemologischen und methodischen Herausforderungen stellen sie uns?
 
 2. Eine Erzählung von Mangel und Überfluss:
 
-Das Online Web ist durch zwei gegenläufige Tendenzen geprägt. Einerseits scheint es mehr Ressourcen bereit zu halten als wir je zur Kenntnis nehmen können,          andererseits sind die Inhalte des Web flüchtig und veränderlich. (Roy Rosenzweig 2003: "fragility of evidence in the digital era")
+Das Online Web ist durch zwei gegenläufige Tendenzen geprägt. Einerseits scheint es mehr Ressourcen bereit zu halten als wir je zur Kenntnis nehmen können, andererseits sind die Inhalte des Web flüchtig und veränderlich. (Roy Rosenzweig 2003: "fragility of evidence in the digital era")
 
 3. Andersartigkeit des neuen Archivierens?
 
-Im Gegensatz  zu herkömmlichen wegen des Archivierens hatten Werkzeuge und Repositorien von Anfang an eine partizipatorische und niederschwellige Dimension, die     bewusst auch die außerwissenschaftliche Öffentlichkeit ansprach.
+Im Gegensatz zu herkömmlichen wegen des Archivierens hatten Werkzeuge und Repositorien von Anfang an eine partizipatorische und niederschwellige Dimension, die bewusst auch die außerwissenschaftliche Öffentlichkeit ansprach.
 
 4. Dem Archiv Bedeutung entlocken
 
-Die Inhalte des digitalen Archivs spiegeln die Reichhaltigkeit des Online Web wieder, sind aber epistemlogisch davon verschieden. Dieses kann sowohl qualitativ      studiert werden, als auch durch computationale Distanz-Verfahren.
+Die Inhalte des digitalen Archivs spiegeln die Reichhaltigkeit des Online Web wieder, sind aber epistemlogisch davon verschieden. Dieses kann sowohl qualitativ studiert werden, als auch durch computationale Distanz-Verfahren.
 
 5. Digitales Archiv und Kanon
 
-Digitale Archive ähneln den institutionalisierten Archiven der offline Welt insofern, als sie als Engführungen des Kulturellen Gedächtnisses (Aleida Assmann)     begriffen werden können, die durch Kanonisierungsprozesse geprägt werden und selbst als Reservoir kulturellen Wissens für die Erneuerung des Kanons dienen können. Insbesondere die Medialität des Online Webs, bewusste Auswahlprozesse im Zug der Archivierung, technische Faktoren und “blinde Flecken” im Zuge des Archivierungsprozesses formen den Charakter des archivierten Webs.
+Digitale Archive ähneln den institutionalisierten Archiven der offline Welt insofern, als sie als Engführungen des Kulturellen Gedächtnisses (Aleida Assmann) begriffen werden können, die durch Kanonisierungsprozesse geprägt werden und selbst als Reservoir kulturellen Wissens für die Erneuerung des Kanons dienen können. Insbesondere die Medialität des Online Webs, bewusste Auswahlprozesse im Zug der Archivierung, technische Faktoren und “blinde Flecken” im Zuge des Archivierungsprozesses formen den Charakter des archivierten Webs.
 
 </section>
 <section lang="en" markdown="1">
@@ -66,7 +64,7 @@ Digitale Archive ähneln den institutionalisierten Archiven der offline Welt ins
 
 1. Two guiding questions:
 
-- Historical research and archival or library practice are increasingly confronted with digitally born sources. To what extent can web archiving as a tool help      us to cope with the challenges of the digital transformation?
+- Historical research and archival or library practice are increasingly confronted with digitally born sources. To what extent can web archiving as a tool help us to cope with the challenges of the digital transformation?
 - Web archives are a rather recent type of archive. What epistemological and methodological challenges do they pose?
 
 2. A narrative of scarcity and abundance:
@@ -87,4 +85,3 @@ Digital archives are similar to the institutionalized archives of the offline wo
 
 </section>
 </div>
-
