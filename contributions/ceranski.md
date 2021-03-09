@@ -37,15 +37,19 @@ Ever since the early modern period gatekeepers have been essential players withi
 Mein Vortrag beschäftigt sich mit der Rolle von Digitalisierung aus der Sicht der Wissenschaftsgeschichte und nutzt ihr analytisches Instrumentarium. Türhüter – gatekeeper – sind in der Wissenschaftsgeschichte wesentliche und funktionell unverzichtbare Instanzen des Wissenschaftsbetriebs. Die realen und figurativen Räume, die sie für die Gewinnung und Verbreitung von Wissen und Erkenntnis schufen – Institutionen und Infrastrukturen des Wissenschaftsbetriebs – waren und sind nur funktional, indem zugleich der Zutritt zu ihnen reglementiert wurde. Digitalisierung, so mein Leitgedanke, greift als neuartige Türhüter-Instanz in diese Konstellationen auf einer Vielzahl  von Ebenen sowohl befreiend als auch verschärfend ein. Wie in der „analogen“ Welt spielt die Bereitstellung der erforderlichen Ressourcen eine Schlüsselrolle und erfordert die Analyse, mit welchen Mechanismen und durch welche Akteure die digitalen Räume der wissenschaftshistorischen Forschung funktionieren. Exemplarisch werden in der gebotenen Kürze folgende Bereiche diskutiert:
 
 1) Archivbestände
+
 Findbücher und Bestandsübersichten erschließen, so die normative Beschreibung, die in Archiven geborgenen Grundlagen („Daten“) der historischen Forschung. Digitalisierung macht die Recherche und  für die Forschenden leichter und die Forschung effizienter. Im Optimalfall sparen hinterlegte Scans aufwändige Archivreisen. Digitalisierung erfordert jedoch Ressourcen. Was bedeutet es, wenn kommerzielle Anbieter mitunter die Lücken der öffentlichen Finanzierung füllen?
 
 2) Editionen und Übersetzungen
+
 Anthologien, oft zugleich Übersetzungen, stellen eine unverzichtbare Ressource der Wissenschaftsgeschichte dar, alleine schon aus sprachlichen Gründen des zeitlich und räumlich weitgespannten und international geprägten Faches. Die Gründergeneration leistete hier Erschließungs- und damit auch Kanonisierungsarbeit, die bis heute wirkt. Werkeditionen sind eine Königsdisziplin der (Wissenschafts-) Geschichte und kommen als enorm ressourcenintensives Unternehmen naturgemäß (?) für die ganz „Großen“ zum Tragen. Ein „Matthäus-Effekt“ (Merton) der Historiographie?
 
 3) Objekte
+
 Die (3D-) Digitalisierung von Sammlungen ist einer der dynamischsten Bereiche der Digitalisierung überhaupt. Sammlungsobjekte werden angereichert durch einen digitalen Zwilling, der mit weiteren Fragestellungen verknüpft werden kann. In welchem Verhältnis stehen angesichts der Förderstrukturen Breitenerschließung und Leuchtturmprojekte, und was bedeutet dies für die Sammlungen und die wissenschafts- und technikhistorische Forschung? 
 
 4) Methoden der Digital Humanities
+
 Volltexterschließung und Netzwerkanalyse sind nur zwei methodische Zugänge, die durch umfassende Digitalisierung ermöglicht bzw. gestärkt werden. Sie basieren sie auf einer mit hohem Aufwand geschaffenen Datengrundlage, die dann mit unterschiedlichen Fragestellungen bearbeitet werden kann. Es ist forschungsökonomisch sinnvoll, dass solche Daten über ihre Entstehungskontexte hinaus genutzt werden. Digital erschlossene Quellenkorpora entfalten damit eine ursprünglich nicht geplante Persistenz. Für die Forschungsthemen muss das nicht zwingend eine Einengung bedeuten, für die Fallstudien schon.
 
 </section>
