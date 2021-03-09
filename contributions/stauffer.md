@@ -13,14 +13,14 @@ permalink: /contributions/stauffer
 
 ## Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
 
-Für die deutsche Literaturgeschichtsschreibung gehörte die galante Literatur lange Zeit nicht zum Kanon. Als Herbert Singer in den 1960er Jahren seine grundlegenden Arbeiten zum galanten Roman veröffentlichte, beschrieb er sein Unternehmen als „Forschungsreise in eine terra incognita“. Er erforsche einen „weißen Fleck[...] auf der Landkarte der deutschen Literaturgeschichte“. Dieser weiße Fleck war eine „klaffende Lücke“ von siebeneinhalb Jahrzehnten. Die Romane, die er untersuchen wollte, galten zwei Jahrhunderte lang als verschollen. Er hoffe „ein unbekanntes Meisterwerk“ zu finden oder – wie Richard Alewyn vor ihm – „einen verschollenen Dichter von Rang“. Er verbarg seine Enttäuschung nicht, als er erklärte, dass „die Romane der Zeit historisch folgenlos und ästhetisch belanglos“ seien. Glücklicherweise ist in der Galanterieforschung seit Singer viel geschehen und viele seiner Vorurteile sind inzwischen revidiert. Dennoch gehören viele galante Texte weiterhin – wie es Franco Moretti bezeichnet hat – zu dem großen Ungelesenen.
+Für die deutsche Literaturgeschichtsschreibung gehörte die galante Literatur lange Zeit nicht zum Kanon. Als Herbert Singer in den 1960er Jahren seine grundlegenden Arbeiten zum galanten Roman veröffentlichte, beschrieb er sein Unternehmen als „Forschungsreise in eine terra incognita“.<sup>1</sup> Er erforsche einen „weißen Fleck[...] auf der Landkarte der deutschen Literaturgeschichte“.<sup>2</sup> Dieser weiße Fleck war eine „klaffende Lücke“<sup>3</sup> von siebeneinhalb Jahrzehnten. Die Romane, die er untersuchen wollte, galten zwei Jahrhunderte lang als verschollen. Er hoffe „ein unbekanntes Meisterwerk“ zu finden oder – wie Richard Alewyn vor ihm – „einen verschollenen Dichter von Rang“.<sup>4</sup> 
 
 [Vollständiger Abstract](Stauffer_de.pdf)
 
 </section>
 <section lang="en" markdown="1">
 
-## Opening the Archive and Extending the Canon: Digitalisation as a boost for Galanterieforschung
+## Opening the Archive and Extending the Canon: Digitalisation as a booster for gallantry research
 
 For most of German literary history, gallant literature did not belong to the German literary canon. When in the 1960s Herbert Singers groundbreaking studies of the gallant novel appeared, he described his research as “an expedition into a terra incognita”.<sup>1</sup> He was exploring “a white spot on the map of the German literary history.”<sup>2</sup> This white spot was at least “a yawning gap”<sup>3</sup> of seven and a half decades. The novels he wanted to investigate had been considered lost for two centuries. He hoped to find “an unknown masterpiece” or – like Richard Alewyn before him – “a forgotten poet of importance”.<sup>4</sup>
 
