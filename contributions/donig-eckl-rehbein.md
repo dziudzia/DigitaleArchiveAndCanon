@@ -35,7 +35,6 @@ In parallel to the ongoing digitization of existing archival records, historical
 <section lang="de" markdown="1">
 
 ### Kernpunkte
-
 1. Zwei Fragen:
 
 - Historische Forschung und archivarische bzw. bibliothekarische Praxis werden in wachsendem Maße mit digital geborenen Quellen konfrontiert. Inwiefern kann uns Webarchivierung als Instrument dabei helfen mit den Herausforderungen der Digitalen Transformation zurecht zu kommen?
