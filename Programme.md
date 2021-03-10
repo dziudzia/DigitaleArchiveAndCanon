@@ -63,7 +63,7 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 * [Opening the archive and changing the literary canon: Digitization as a booster for researching gallantry](../contributions/stauffer)
 * [Fragmenting the archive for creativity: developing digital sample packs of Indian musical instrument sounds](../contributions/blackburn-nayak-suviste-batchelor)
 
-</section> 
+</section>
 </div>
 
 <div class="language-container">
@@ -87,7 +87,7 @@ The event is funded as the 2. Maximilian-Bickhoff-Kolloquium by the <a href="htt
 <section lang="en" markdown="1">
 12.15 (GMT) Lunch Break
 
-14.15 (GMT) Fourth Session
+13.15 (GMT) Fourth Session
 
 * [Digital Canon Creation in the interest of Libraries, Research and the Public](../contributions/hertling)
 * [Investigations into a Global Digitisation Dataset](../contributions/lewis-gooding-furlough)
