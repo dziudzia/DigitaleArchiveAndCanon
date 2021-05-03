@@ -8,6 +8,14 @@ permalink: /contributions/hertling
 
 [Dr Anke Hertling](http://www.gei.de/en/mitarbeiter/anke-hertling.html), Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung
 
+<video class="video-js" controls preload="none" width="640" height="360" poster="/images/Hertling.png" data-setup="{}" style="margin:0 auto;">
+  <source src="https://media.room3b.eu/dac_21/Hertling.webm" type="video/webm" />
+  <source src="https://media.room3b.eu/dac_21/Hertling.mp4" type="video/mp4" />
+  <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+</video>
+
 <div class="language-container">
 <section lang="de" markdown="1">
 
