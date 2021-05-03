@@ -27,7 +27,7 @@ The virtual workshop sees itself as a venue to promote the exchange of ideas and
 </section>
 </div>
 
-<video class="video-js" controls preload="none" width="640" height="360" poster="/images/Kupferquartett.jpg" data-setup="{}" style="margin:0 auto;">
+<video class="video-js" controls preload="none" width="640" height="360" poster="/images/Introduction.jpg" data-setup="{}" style="margin:0 auto;">
   <source src="https://media.room3b.eu/dac_21/Introduction.webm" type="video/webm" />
   <source src="https://media.room3b.eu/dac_21/Introduction.mp4" type="video/mp4" />
   <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that
