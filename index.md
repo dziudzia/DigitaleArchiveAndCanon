@@ -34,3 +34,21 @@ The virtual workshop sees itself as a venue to promote the exchange of ideas and
     <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
   </p>
 </video>
+
+<div class="language-container">
+<section lang="de" markdown="1">
+
+## Publikationen
+
+* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. https://doi.org/10.1515/bd-2021-0046
+
+
+</section>
+<section lang="en" markdown="1">
+
+## Publications
+
+* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. https://doi.org/10.1515/bd-2021-0046
+
+</section>
+</div>
