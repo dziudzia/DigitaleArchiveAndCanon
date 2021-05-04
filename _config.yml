@@ -31,11 +31,9 @@ google_analytics:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - Home
- - Registration.md
  - Programme.md
  - AcceptedAbstracts.md
  - Social.md
- - Call.md
  - About.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
