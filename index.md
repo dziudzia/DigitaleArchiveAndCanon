@@ -40,7 +40,7 @@ The virtual workshop sees itself as a venue to promote the exchange of ideas and
 
 ## Publikationen
 
-* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. https://doi.org/10.1515/bd-2021-0046
+* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. [https://doi.org/10.1515/bd-2021-0046](https://doi.org/10.1515/bd-2021-0046)
 
 
 </section>
@@ -48,7 +48,7 @@ The virtual workshop sees itself as a venue to promote the exchange of ideas and
 
 ## Publications
 
-* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. https://doi.org/10.1515/bd-2021-0046
+* Wiederkehr, Stefan. "Digitales Archiv und Kanon. Zweites Maximilian-Bickhoff-Kolloquium" Bibliotheksdienst, vol. 55, no. 5-6, 2021, pp. 291-325. [https://doi.org/10.1515/bd-2021-0046](https://doi.org/10.1515/bd-2021-0046)
 
 </section>
 </div>
