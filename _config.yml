@@ -30,12 +30,10 @@ google_analytics:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - Home
- - Programme.md
- - AcceptedAbstracts.md
- - Social.md
+ - rda2022/registration.md
+ - rda2022/call-for-position-statements.md
  - dac2021/index.md
- - About.md
+ - about.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
@@ -48,6 +46,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 titles_from_headings:
   enabled:     true

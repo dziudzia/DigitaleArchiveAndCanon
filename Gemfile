@@ -24,6 +24,7 @@ end
 
 gem "jekyll-github-metadata"
 
+gem 'jekyll-redirect-from'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -36,4 +37,3 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "faraday", "< 1.0"
-
