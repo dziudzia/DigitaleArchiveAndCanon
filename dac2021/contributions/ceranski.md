@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beate Ceranski
-permalink: /contributions/ceranski
+permalink: /dac2021/contributions/ceranski
 ---
 
 # Beate Ceranski
@@ -46,7 +46,7 @@ Mein Vortrag beschäftigt sich mit der Rolle von Digitalisierung aus der Sicht d
 
 3. Objekte
 
-   Die (3D-) Digitalisierung von Sammlungen ist einer der dynamischsten Bereiche der Digitalisierung überhaupt. Sammlungsobjekte werden angereichert durch einen digitalen Zwilling, der mit weiteren Fragestellungen verknüpft werden kann. In welchem Verhältnis stehen angesichts der Förderstrukturen Breitenerschließung und Leuchtturmprojekte, und was bedeutet dies für die Sammlungen und die wissenschafts- und technikhistorische Forschung? 
+   Die (3D-) Digitalisierung von Sammlungen ist einer der dynamischsten Bereiche der Digitalisierung überhaupt. Sammlungsobjekte werden angereichert durch einen digitalen Zwilling, der mit weiteren Fragestellungen verknüpft werden kann. In welchem Verhältnis stehen angesichts der Förderstrukturen Breitenerschließung und Leuchtturmprojekte, und was bedeutet dies für die Sammlungen und die wissenschafts- und technikhistorische Forschung?
 
 4. Methoden der Digital Humanities
 

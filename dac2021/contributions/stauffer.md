@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isabelle Stauffer
-permalink: /contributions/stauffer
+permalink: /dac2021/contributions/stauffer
 ---
 
 # Isabelle Stauffer
@@ -13,7 +13,7 @@ permalink: /contributions/stauffer
 
 ## Öffnung des Archivs und Erweiterung des Kanons: Die Digitalisierung als Booster für die Galanterieforschung
 
-Für die deutsche Literaturgeschichtsschreibung gehörte die galante Literatur lange Zeit nicht zum Kanon. Als Herbert Singer in den 1960er Jahren seine grundlegenden Arbeiten zum galanten Roman veröffentlichte, beschrieb er sein Unternehmen als „Forschungsreise in eine terra incognita“.<sup>1</sup> Er erforsche einen „weißen Fleck[...] auf der Landkarte der deutschen Literaturgeschichte“.<sup>2</sup> Dieser weiße Fleck war eine „klaffende Lücke“<sup>3</sup> von siebeneinhalb Jahrzehnten. Die Romane, die er untersuchen wollte, galten zwei Jahrhunderte lang als verschollen. Er hoffe „ein unbekanntes Meisterwerk“ zu finden oder – wie Richard Alewyn vor ihm – „einen verschollenen Dichter von Rang“.<sup>4</sup> 
+Für die deutsche Literaturgeschichtsschreibung gehörte die galante Literatur lange Zeit nicht zum Kanon. Als Herbert Singer in den 1960er Jahren seine grundlegenden Arbeiten zum galanten Roman veröffentlichte, beschrieb er sein Unternehmen als „Forschungsreise in eine terra incognita“.<sup>1</sup> Er erforsche einen „weißen Fleck[...] auf der Landkarte der deutschen Literaturgeschichte“.<sup>2</sup> Dieser weiße Fleck war eine „klaffende Lücke“<sup>3</sup> von siebeneinhalb Jahrzehnten. Die Romane, die er untersuchen wollte, galten zwei Jahrhunderte lang als verschollen. Er hoffe „ein unbekanntes Meisterwerk“ zu finden oder – wie Richard Alewyn vor ihm – „einen verschollenen Dichter von Rang“.<sup>4</sup>
 
 [Vollständiger Abstract](Stauffer_de.pdf)
 

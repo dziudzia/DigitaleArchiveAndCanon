@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accepted Abstracts
-permalink: /contributions/
+permalink: /dac2021/contributions
 ---
 
 <div class="language-container">

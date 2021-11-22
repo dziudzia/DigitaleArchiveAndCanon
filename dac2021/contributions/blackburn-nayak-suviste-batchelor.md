@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manuella Blackburn, Alok Nayak, Hayley Suviste, and Jonny Batchelor
-permalink: /contributions/blackburn-nayak-suviste-batchelor
+permalink: /dac2021/contributions/blackburn-nayak-suviste-batchelor
 ---
 
 # Manuella Blackburn, Alok Nayak, Hayley Suviste, and Jonny Batchelor

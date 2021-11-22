@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuart Lewis, Paul Gooding, Mike Furlough
-permalink: /contributions/lewis-gooding-furlough
+permalink: /dac2021/contributions/lewis-gooding-furlough
 ---
 
 # Stuart Lewis, Paul Gooding, Mike Furlough
@@ -10,7 +10,7 @@ Stuart Lewis, Associate Director of Digital, National Library of Scotland<br/>
 Dr Paul Gooding, Senior Lecturer in Information Studies, University of Glasgow<br/>
 Mike Furlough, Executive Director, HathiTrust
 
-<video class="video-js" controls preload="none" width="640" height="360" poster="/images/LewisGoodingFurlough.png" data-setup="{}" style="margin:0 auto;">
+<video class="video-js" controls preload="none" width="640" height="360" poster="images/LewisGoodingFurlough.png" data-setup="{}" style="margin:0 auto;">
   <source src="https://media.room3b.eu/dac_21/LewisGoodingFurlough.webm" type="video/webm" />
   <source src="https://media.room3b.eu/dac_21/LewisGoodingFurlough.mp4" type="video/mp4" />
   <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that

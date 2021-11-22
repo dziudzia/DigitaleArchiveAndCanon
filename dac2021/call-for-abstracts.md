@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Abstracts
-permalink: /call/
+permalink: /dac2021/call-for-abstracts
 ---
 
 <div class="language-container">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-permalink: /registration/
+permalink: /dac2021/registration
 ---
 
 <div class="language-container">
@@ -9,7 +9,7 @@ permalink: /registration/
 
 # Anmeldung
 
-Der Workshop "Digitales Archiv und Kanon" findet am 10.3.21 virtuell statt. Für die Teilnahme ist eine Anmeldung nötig, es werden keine Gebühren erhoben. 
+Der Workshop "Digitales Archiv und Kanon" findet am 10.3.21 virtuell statt. Für die Teilnahme ist eine Anmeldung nötig, es werden keine Gebühren erhoben.
 
 Um sich für den Workshop zu registrieren, nutzen Sie bitte entweder die [Eventbrite Seite](https://www.eventbrite.co.uk/e/digital-archive-and-canon-tickets-142481763791) oder senden Sie eine Mail an [Corinna Dziudzia](mailto://corinna.dziudzia@ku.de).
 
@@ -20,7 +20,7 @@ Ein paar Tage vor dem Workshop wird Ihnen dann ein Link mit den Zugangsdaten zug
 
 # Registration
 
-The workshop "digital archive and canon" will be held virtually on March, 10th 2021. To participate a registration is necessary, there will be no fees. 
+The workshop "digital archive and canon" will be held virtually on March, 10th 2021. To participate a registration is necessary, there will be no fees.
 
 To register for the workshop, please use either [Eventbrite Page](https://www.eventbrite.co.uk/e/digital-archive-and-canon-tickets-142481763791) or send a mail to [Corinna Dziudzia](mailto://corinna.dziudzia@ku.de).
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gerben Zaagsma
-permalink: /contributions/zaagsma
+permalink: /dac2021/contributions/zaagsma
 ---
 
 
@@ -9,7 +9,7 @@ permalink: /contributions/zaagsma
 
 [Gerben Zaagsma](http://gerbenzaagsma.org), [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu)
 
-<video class="video-js" controls preload="none" width="640" height="360" poster="/images/Zaagsma.png" data-setup="{}" style="margin:0 auto;">
+<video class="video-js" controls preload="none" width="640" height="360" poster="images/Zaagsma.png" data-setup="{}" style="margin:0 auto;">
   <source src="https://media.room3b.eu/dac_21/Zaagsma.webm" type="video/webm" />
   <source src="https://media.room3b.eu/dac_21/Zaagsma.mp4" type="video/mp4" />
   <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that

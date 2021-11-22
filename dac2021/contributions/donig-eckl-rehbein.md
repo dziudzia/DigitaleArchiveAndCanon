@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simon Donig, Markus Eckl, Malte Rehbein
-permalink: /contributions/donig-eckl-rehbein
+permalink: /dac2021/contributions/donig-eckl-rehbein
 ---
 
 # Simon Donig, Markus Eckl, Malte Rehbein
@@ -10,7 +10,7 @@ Simon Donig, [Universität Passau, Lehrstuhl für Digital Humanities](https://ww
 Markus Eckl, [Universität Passau, Lehrstuhl für Digital Humanities](https://www.phil.uni-passau.de/dh/)<br/>
 Malte Rehbein, [Universität Passau, Lehrstuhl für Digital Humanities](https://www.phil.uni-passau.de/dh/)
 
-<video class="video-js" controls preload="none" width="640" height="360" poster="/images/DonigEcklRehbein.png" data-setup="{}" style="margin:0 auto;">
+<video class="video-js" controls preload="none" width="640" height="360" poster="images/DonigEcklRehbein.png" data-setup="{}" style="margin:0 auto;">
   <source src="https://media.room3b.eu/dac_21/DonigEcklRehbein.webm" type="video/webm" />
   <source src="https://media.room3b.eu/dac_21/DonigEcklRehbein.mp4" type="video/mp4" />
   <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that

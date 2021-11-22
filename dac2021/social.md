@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social
-permalink: /social/
+permalink: /dac2021/social
 ---
 
 <video class="video-js" controls preload="none" width="640" height="360" poster="/images/Kupferquartett.jpg" data-setup="{}" style="margin:0 auto;">
