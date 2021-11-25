@@ -44,3 +44,14 @@ Bei redaktionellen Inhalten: <br/><br/>
 
 Verantwortlich nach § 55 Abs.2 RStV<br/>
 Dr. Mark Hall<br/>
+
+
+Anbieter:<br/>
+Dr. Corinna Dziudzia <br/>
+Forschungstentrum Gotha der Universität Erfurt<br />
+Schlossberg 2<br />
+99868 Gotha
+
+Kontakt: corinna.dziudzia@uni-erfurt.de<br/>
+
+
