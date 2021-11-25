@@ -9,9 +9,9 @@ permalink: /rda2022/registration
 
 # Registrierung
 
-Registrieren sie sich für den Workshop bitte über die [Seite der DHd 2022](https://www.dhd2022.de/).
+Registrieren Sie sich für den Workshop bitte über die [Seite der DHd 2022](https://www.dhd2022.de/).
 
-Registrierung sollte ab dem 1.12.2021 möglich sein.
+Die Registrierung sollte ab dem 1.12.2021 möglich sein.
 
 </section>
 
