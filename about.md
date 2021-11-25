@@ -23,7 +23,7 @@ Bei redaktionellen Inhalten: <br/><br/>
 -->
 
 Dr. Corinna Dziudzia <br/>
-Forschungstentrum Gotha der Universität Erfurt<br />
+Forschungszentrum Gotha der Universität Erfurt<br />
 Schlossberg 2<br />
 99868 Gotha
 
