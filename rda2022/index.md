@@ -5,6 +5,7 @@ permalink: /rda2022/
 redirect_from:
   - /
 ---
+![](images/DHd2022_Cover_Sepia.png)
 
 <div class="language-container">
 <section lang="de" markdown="1">
