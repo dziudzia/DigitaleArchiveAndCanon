@@ -1,4 +1,17 @@
+---
+layout: page
+title: Bibliography
+permalink: /rda2022/bibliography
+---
+
+<div class="language-container">
+<section lang="de" markdown="1">
+# Bibliographie
+</section>
+<section lang="en" markdown="1">
 # Bibliography
+</section>
+</div>
 
 * Ali, Syed Mustafa. „A Brief Introduction to Decolonial Computing“. XRDS: Crossroads, The ACM Magazine for Students 22, Nr. 4 (13. Juni 2016): 16–21. https://doi.org/10.1145/2930886.
 * Assmann, Aleida (2010): “Canon and Archive”, in: Erll, Astrid / Nünning, Ansgar (eds.): A Companion to Cultural Memory Studies. Berlin / New York: De Gruyter 97-107.
